@@ -1,0 +1,20 @@
+import i_know_true_is_this_much as know_true
+test_001 = know_true.test_understanding_tests
+test_002 = know_true.test_can_we_make_some_extra_true
+test_003 = know_true.test_minus_true_is_not_false
+test_004 = know_true.test_true_is_not_other_than_it_is
+test_005 = know_true.test_well_we_definitely_know_what_true_is_not
+
+
+import let_us_now_beware_defaults as lets
+test_006 = lets.test_we_know_what_a_default_is
+test_007 = lets.test_where_defaults_live
+test_008 = lets.test_its_not_just_for_lists
+
+import thats_all_i_have_to_say_about_that as ___huh
+test_009 = ___huh.test_____________huh
+
+import the_emperors_new_closure
+test_010 = the_emperors_new_closure.test_a_closure
+test_011 = the_emperors_new_closure.test_now_closure_eyes_a_bit_and_squint
+test_012 = the_emperors_new_closure.test_throwing_a_tarp_over_him
