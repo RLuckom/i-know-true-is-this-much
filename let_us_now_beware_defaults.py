@@ -18,7 +18,7 @@ def test_where_defaults_live():
 
     assert append_x_to_list(9) == [9]
     assert append_x_to_list(8, [0, 7]) == [0, 7, 8]
-    assert fill_me_in() == append_x_to_list(9), "No, Mr Default, I expect you to"
+    assert fill_me_in() == append_x_to_list(9)
 
 
 def test_its_not_just_for_lists():
